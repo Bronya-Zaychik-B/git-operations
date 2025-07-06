@@ -1,5 +1,14 @@
 ### Pushing your project to GitHub from your local folder
 
+**Git configurations**
+
+Check the following commands:
+
+```
+git config --global user.name "your user name"
+git config --global user.email "your registered GitHub email"
+```
+
 📜 upload_to_github.sh
 
 ```
